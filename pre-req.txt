@@ -7,6 +7,7 @@ start NodeJS
 --> sudo apt-get update
 --> sudo apt-get install nodejs
 --> sudo apt-get install npm
+--> npm init
 --> npm install -g express
 remove NodeJS
 --> sudo apt-get remove nodejs
