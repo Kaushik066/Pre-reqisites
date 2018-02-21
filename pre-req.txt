@@ -12,3 +12,7 @@ remove NodeJS
 --> sudo apt-get remove nodejs
           or
 --> sudo apt-get autoremove
+Install AngularJS (Note: install NodeJS and npm before installing the AngularJS)
+--> npm install -g generator-angular
+          or
+--> npm install --save angular
