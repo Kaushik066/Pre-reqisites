@@ -1,0 +1,14 @@
+start MongoDB 
+--> sudo service mongodb start
+--> mongo
+stop MongoDB
+--> sudo service mongodb stop
+start NodeJS
+--> sudo apt-get update
+--> sudo apt-get install nodejs
+--> sudo apt-get install npm
+--> npm install -g express
+remove NodeJS
+--> sudo apt-get remove nodejs
+          or
+--> sudo apt-get autoremove
